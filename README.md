@@ -102,7 +102,8 @@ print(df_new)
 ![Screenshot 2023-05-26 213843](https://github.com/swetha1510/Ex-07-Feature-Selection/assets/120623583/58549620-56d6-41f9-90af-667bb15e8438)
 ![Screenshot 2023-05-26 213917](https://github.com/swetha1510/Ex-07-Feature-Selection/assets/120623583/38aa2963-a71d-43a6-9db4-4109f10838e0)
 
-
+# RESULT:
+Thus, the various feature selection techniques have been performed on a given dataset successfully.
 
 
 
